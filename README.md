@@ -1,3 +1,3 @@
-# MoriusDialogueProto
+# Dialogue-Tree
 
-Developed with Unreal Engine 4 as a dialogue tree prototype for Project Morius, CSCI 440.
+Developed with Unreal Engine 4.23.1 as a dialogue tree system for various projects.
